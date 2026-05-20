@@ -2,7 +2,7 @@
 # MLB Baseball Exploratory Data Analysis (1990–2018)
 
 ## Project Overview
-This project explores over 125 years of MLB baseball data using MySQL. The goal was to uncover trends and patterns in player performance, team success, and the impact of payroll on winning using real historical data from the Lahman Baseball Database.
+This project explores over 28 seasons of MLB baseball data using MySQL. The goal was to uncover trends and patterns in player performance, team success, and the impact of payroll on winning using real historical data from the Lahman Baseball Database.
 
 ## Tools Used
 - **MySQL** — data cleaning and exploratory data analysis
